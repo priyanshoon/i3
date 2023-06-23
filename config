@@ -191,7 +191,7 @@ bar {
 for_window [class="Chromium"] border pixel 1
 for_window [class="firefox"] border pixel 1
 bindsym $mod+c exec chromium
-exec --no-startup-id sleep 1 && feh --bg-fill ~/Pictures/Wallpaper/wall-08.jpg
+exec --no-startup-id sleep 1 && feh --bg-fill ~/Pictures/Wallpaper/wall-13.jpg
 exec --no-startup-id nm-applet
 bindsym Print exec --no-startup-id maim "/home/$USER/Pictures/screenshot/$(date).png"
 bindsym Shift+Print exec --no-startup-id maim --select "/home/$USER/Pictures/screenshot/$(date).png"
